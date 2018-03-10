@@ -2,4 +2,5 @@
 
 echo "BOOOOOM";
 
+echo "BOOOOOM";
 ?>
